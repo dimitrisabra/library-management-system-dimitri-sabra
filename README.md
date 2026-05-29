@@ -48,6 +48,20 @@ The application now uses an automatic **local SQLite database**, so it can run w
 
 ## Run the Project
 
+### Download the EXE
+
+You can download the ready-to-run Windows executable from the GitHub release:
+
+[Download Library Management System v1.0.0](https://github.com/dimitrisabra/library-management-system-dimitri-sabra/releases/tag/v1.0.0)
+
+The executable is also included in this repository under:
+
+```text
+dist/Library Management System.exe
+```
+
+### Run from Visual Studio
+
 1. Clone the repository.
 2. Open `Library Management System - Dimitri Sabra.sln` in Visual Studio.
 3. Restore NuGet packages.
